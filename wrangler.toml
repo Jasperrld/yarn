@@ -1,0 +1,8 @@
+name = "yarn"
+type = "javascript"
+
+# Optional: Specify a build command if different from `yarn build`
+build.command = "yarn build"
+
+# Optional: Specify the output directory if it's not `dist`
+build.output_dir = "dist"
